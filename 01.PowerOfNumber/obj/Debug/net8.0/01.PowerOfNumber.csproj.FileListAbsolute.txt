@@ -1,0 +1,14 @@
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\01.PowerOfNumber\obj\Debug\net8.0\01.PowerOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\01.PowerOfNumber\obj\Debug\net8.0\01.PowerOfNumber.AssemblyInfoInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\01.PowerOfNumber\obj\Debug\net8.0\01.PowerOfNumber.AssemblyInfo.cs
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\01.PowerOfNumber\obj\Debug\net8.0\01.PowerOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\01.PowerOfNumber\bin\Debug\net8.0\01.PowerOfNumber.exe
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\01.PowerOfNumber\bin\Debug\net8.0\01.PowerOfNumber.deps.json
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\01.PowerOfNumber\bin\Debug\net8.0\01.PowerOfNumber.runtimeconfig.json
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\01.PowerOfNumber\bin\Debug\net8.0\01.PowerOfNumber.dll
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\01.PowerOfNumber\bin\Debug\net8.0\01.PowerOfNumber.pdb
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\01.PowerOfNumber\obj\Debug\net8.0\01.PowerOfNumber.dll
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\01.PowerOfNumber\obj\Debug\net8.0\refint\01.PowerOfNumber.dll
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\01.PowerOfNumber\obj\Debug\net8.0\01.PowerOfNumber.pdb
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\01.PowerOfNumber\obj\Debug\net8.0\01.PowerOfNumber.genruntimeconfig.cache
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\01.PowerOfNumber\obj\Debug\net8.0\ref\01.PowerOfNumber.dll
