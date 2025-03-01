@@ -1,0 +1,14 @@
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\05.Division\bin\Debug\net8.0\05.Division.exe
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\05.Division\bin\Debug\net8.0\05.Division.deps.json
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\05.Division\bin\Debug\net8.0\05.Division.runtimeconfig.json
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\05.Division\bin\Debug\net8.0\05.Division.dll
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\05.Division\bin\Debug\net8.0\05.Division.pdb
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\05.Division\obj\Debug\net8.0\05.Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\05.Division\obj\Debug\net8.0\05.Division.AssemblyInfoInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\05.Division\obj\Debug\net8.0\05.Division.AssemblyInfo.cs
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\05.Division\obj\Debug\net8.0\05.Division.csproj.CoreCompileInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\05.Division\obj\Debug\net8.0\05.Division.dll
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\05.Division\obj\Debug\net8.0\refint\05.Division.dll
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\05.Division\obj\Debug\net8.0\05.Division.pdb
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\05.Division\obj\Debug\net8.0\05.Division.genruntimeconfig.cache
+C:\Users\rebel\Desktop\QA Exercises\ExerciseLoops\ExerciseLoopsLab\05.Division\obj\Debug\net8.0\ref\05.Division.dll
